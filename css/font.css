@@ -2,7 +2,7 @@
 @font-face{
     font-family: 'FZZH-YMYYTJW';
     
-    src: url('/font/FZZH-YMYYTJW.ttf') format("truetype");
+    src: url('../diy-font/FZZH-YMYYTJW.ttf') format("truetype");
 }
 
 body {
