@@ -1,0 +1,10 @@
+
+@font-face{
+    font-family: 'FZZH-YMYYTJW';
+    
+    src: url('/font/FZZH-YMYYTJW.ttf') format("truetype");
+}
+
+body {
+    font-family: 'FZZH-YMYYTJW';
+}
