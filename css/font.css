@@ -4,6 +4,12 @@
   src: url('../font/freehand.ttf') format(truetype);
 }
 
+@font-face {
+  font-family: 'CascadiaCode';
+  font-display: swap;
+  src: url('../font/CascadiaCode.ttf') format(truetype);
+}
+
 body {
-  font-family: 'freehand';
+  font-family: 'freehand', 'CascadiaCode';
 }
