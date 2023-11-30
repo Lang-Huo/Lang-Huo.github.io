@@ -10,6 +10,24 @@
   src: url('../font/CascadiaCode.ttf') format(truetype);
 }
 
-body {
-  font-family: 'freehand', 'CascadiaCode';
+@font-face {
+  font-family: 'Maoken';
+  font-display: swap;
+  src: url('../font/Maoken.ttf') format(truetype);
 }
+
+@font-face {
+  font-family: 'Pixel';
+  font-display: swap;
+  src: url('../font/pixel.ttf') format(truetype);
+}
+
+@font-face {
+  font-family: 'FusionPixel';
+  font-display: swap;
+  src: url('../font/FusionPixel.ttf') format(truetype);
+}
+
+/* body {
+  font-family: 'freehand', 'CascadiaCode', 'Maoken', 'Pixel';
+} */
